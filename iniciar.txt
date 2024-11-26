@@ -1,0 +1,7 @@
+# Iniciando API
+cd site_fipe_oficial
+python api.py
+
+# Iniciando npm
+cd site_fipe_oficial/fipe-app
+npm start
